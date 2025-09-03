@@ -1,8 +1,57 @@
-# The Analysis
+# 📊 Data Analyst Job Market Insights  
 
-## 1. What are the most demanded skills for the top 3 most popular data roles?
+## 🔎 Overview  
+This project explores the **data job market**, with a strong focus on **data analyst roles**.  
+## 🔎 Overview  
+This project was created to **showcase my proficiency in Python** while analyzing the **data job market**, with a strong focus on **data analyst roles**.  
+The motivation behind this analysis is to gain clarity on which skills matter most for landing optimal opportunities, both in terms of **demand** and **salary potential**.  
 
-To find the most demanded skills for the top 3 most popular data roles. I filtered out these positions by which ones were the most popular, and got the top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills i should pay attention to depending on the role i am targeting.
+Using job data sourced from **Luke Barousse's Python Course**, I examine job titles, salaries, locations, and required skills.  
+Through Python-based analysis, I aim to answer key questions about the evolving data job landscape.  
+---
 
-View my notebook with detailed steps here:
-[2_Skill_Count.ipynb](Project\2_Skills_Count.ipynb)
+## ❓ Key Questions  
+This project investigates the following:  
+
+1. Which skills are most in demand for the **top three data roles**?  
+2. How are in-demand skills trending for **data analysts**?  
+---
+
+## 🛠 Tools & Technologies  
+
+- **Python** – Core programming language for analysis  
+- **Pandas** – Data manipulation and analysis  
+- **Matplotlib** – Data visualization  
+- **Seaborn** – Advanced and styled data visualizations  
+- **Jupyter Notebooks** – Interactive analysis and documentation  
+- **Visual Studio Code** – Script execution and code development  
+- **Git & GitHub** – Version control and project sharing
+- **ChatGPT** - For further assistance
+
+---
+## Data Preparation and Cleanup
+This section outlines the steps taken to prepare the data for analysis, ensuring accuracy and usability.
+
+### Import & Clean Up Data
+I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality to focus my analysis on the U.S. job market, I apply filters to the dataset, narrowing down to roles based in the United States.
+<img width="1756" height="748" alt="code1" src="https://github.com/user-attachments/assets/1cea52b9-6abe-4299-a11c-698fbeb6c590" />
+
+## The Analysis  
+
+Each Jupyter notebook explores a key aspect of the data job market.  
+
+### 1. Most Demanded Skills for Top 3 Roles  
+I identified the three most common job titles, then extracted the top five skills for each.  
+This shows which skills are most valuable depending on the role.  
+
+Detailed steps: [2_Skill_Demand.ipynb](Project/2_Skills_Count_Analysis.ipynb)
+### Data visualization codes
+<img width="1988" height="938" alt="code2" src="https://github.com/user-attachments/assets/31e72d7f-9813-4940-805f-170d9009a199" />
+
+###Result
+<img width="620" height="472" alt="image" src="https://github.com/user-attachments/assets/7fde191f-4154-47b0-9a2f-cd953a6d69eb" />
+##  Insights  
+
+- **SQL** is the top skill for Data Analysts and Data Scientists, appearing in over half of job postings.  
+- **Python** dominates for Data Engineers (68%) and is also highly valued for Data Scientists (72%) and Data Engineers (65%).  
+- Data Engineers often need specialized tools (**AWS, Azure, Spark**), while Analysts and Scientists rely more on general tools like **Excel** and **Tableau**.  
