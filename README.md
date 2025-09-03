@@ -82,7 +82,7 @@ This revealed the **top five skills per month**, showing how their demand shifte
 - **Shifting market:** Skill demand changes over time — staying current is essential for career growth.  
 - **Prioritization:** Learn skills that are both in high demand and well-compensated to maximize economic return.
 
-  ## what I learned
+## what I learned
 - **advanced python:** stronger skills with pandas, numpy, matplotlib, and seaborn for cleaning and visuals.  
 - **data prep matters:** accurate cleaning and formatting are essential for reliable results.  
 - **storytelling with notebooks:** clear narrative + visuals improves reproducibility and reviewer understanding.  
