@@ -66,7 +66,7 @@ This revealed the **top five skills per month**, showing how their demand shifte
 
 ### Result
 
-<img width="363" height="265" alt="image" src="https://github.com/user-attachments/assets/531bce03-7049-484e-9cb1-fd5e0ac651fd" />
+<img width="1696" height="862" alt="image" src="https://github.com/user-attachments/assets/531bce03-7049-484e-9cb1-fd5e0ac651fd" />
 
 ### insights
 
