@@ -62,10 +62,19 @@ This revealed the **top five skills per month**, showing how their demand shifte
 
  Detailed steps: [3_Skills_Trend.ipynb](Project/3_Skills_Trend_Analysis.ipynb)  
 
-### Visualize Data  
+### Data visualization codes  
 
 <img width="1696" height="862" alt="code3" src="https://github.com/user-attachments/assets/aa9f5800-8f6c-47c6-b826-d13bbda4e46e" />
 
-###Result
+### Result
+
 <img width="363" height="265" alt="image" src="https://github.com/user-attachments/assets/531bce03-7049-484e-9cb1-fd5e0ac651fd" />
 
+## insights
+
+- SQL remains the top skill but declines about 10 percentage points (≈64% → ≈54%).
+- Excel falls mid-year then rebounds, peaking ≈45% in Jul/Aug and finishing near ≈40%.
+- Python and Tableau are stable around 30–35%, with Tableau rising late to ≈33%.
+- Power BI is lowest (≈18–23%) but shows a small year-end uptick.
+  
+- #### Takeaway: prioritize SQL + Python/Excel, add Tableau for visualization; Power BI is secondary.
