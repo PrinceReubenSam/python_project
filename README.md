@@ -3,8 +3,8 @@
 This project was created to **showcase my proficiency in Python** while analyzing the **data job market**, with a strong focus on **data analyst roles**.  
 The motivation behind this analysis is to gain clarity on which skills matter most for landing optimal opportunities, both in terms of **demand** and **salary potential**.  
 
-#### Using job data sourced by  **Luke Barousse's **, I examine job titles, salaries, locations, and required skills.  
-Through Python-based analysis, I aim to answer key questions about the evolving data job landscape.  
+##### Using job data sourced by  **Luke Barousse**, I examine job titles, salaries, locations, and required skills.  
+##### Through Python-based analysis, I aim to answer key questions about the evolving data job landscape.  
 ---
 
 ##  Key Questions  
