@@ -33,11 +33,9 @@ This section outlines the steps taken to prepare the data for analysis, ensuring
 I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality, to focus my analysis on the U.S. job market, I apply filters to the dataset, narrowing down to roles based in the United States.
 <img width="1756" height="748" alt="code1" src="https://github.com/user-attachments/assets/1cea52b9-6abe-4299-a11c-698fbeb6c590" />
 
-## The Analysis  
+# The Analysis  
 
-Each Jupyter notebook explores a key aspect of the data job market.  
-
-### 1. Most Demanded Skills for Top 3 Roles  
+## 1. Most Demanded Skills for Top 3 Roles  
 I identified the three most common job titles, then extracted the top five skills for each.  
 This shows which skills are most valuable depending on the role.  
 
@@ -49,13 +47,13 @@ Detailed steps: [2_Skill_Demand.ipynb](Project/2_Skills_Count_Analysis.ipynb)
 
 <img width="620" height="472" alt="image" src="https://github.com/user-attachments/assets/7fde191f-4154-47b0-9a2f-cd953a6d69eb" />
 
-##  Insights  
+###  Insights  
 
 - **SQL** is the top skill for Data Analysts and Data Scientists, appearing in over half of job postings.  
 - **Python** dominates for Data Engineers (68%) and is also highly valued for Data Scientists (72%) and Data Engineers (65%).  
 - Data Engineers often need specialized tools (**AWS, Azure, Spark**), while Analysts and Scientists rely more on general tools like **Excel** and **Tableau**.
     
-### 2. Trending Skills for Data Analysts  
+## 2. Trending Skills for Data Analysts  
 
 To track 2023 trends, I filtered **Data Analyst** roles and grouped skills by posting month.  
 This revealed the **top five skills per month**, showing how their demand shifted over the year.  
@@ -70,14 +68,14 @@ This revealed the **top five skills per month**, showing how their demand shifte
 
 <img width="363" height="265" alt="image" src="https://github.com/user-attachments/assets/531bce03-7049-484e-9cb1-fd5e0ac651fd" />
 
-## insights
+### insights
 
 - SQL remains the top skill but declines about 10 percentage points (≈64% → ≈54%).
 - Excel falls mid-year then rebounds, peaking ≈45% in Jul/Aug and finishing near ≈40%.
 - Python and Tableau are stable around 30–35%, with Tableau rising late to ≈33%.
 - Power BI is lowest (≈18–23%) but shows a small year-end uptick.
 
-## Takeaway 
+### Takeaway 
 **Data analysts should focus on mastering SQL and Python, supplemented with Excel; add Tableau for visualization and can treat Power BI as optional.**
 
 ## Final Insights
@@ -91,7 +89,7 @@ This revealed the **top five skills per month**, showing how their demand shifte
 - **version control:** using git/GitHub for tracking changes and sharing work.  
 - **market fit:** how to match learning priorities to demand and salary potential.
 
-### Conclusion  
+## Conclusion  
 Working on this project taught me a lot about the data analyst job market and the skills that matter most.  
 I faced challenges with cleaning and organizing data, but they helped me get better at problem-solving and visualization.  
 The insights I gained give me clearer direction for growing in data analytics and staying adaptable as the field changes.  
