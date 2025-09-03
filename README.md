@@ -54,7 +54,8 @@ Detailed steps: [2_Skill_Demand.ipynb](Project/2_Skills_Count_Analysis.ipynb)
 - **SQL** is the top skill for Data Analysts and Data Scientists, appearing in over half of job postings.  
 - **Python** dominates for Data Engineers (68%) and is also highly valued for Data Scientists (72%) and Data Engineers (65%).  
 - Data Engineers often need specialized tools (**AWS, Azure, Spark**), while Analysts and Scientists rely more on general tools like **Excel** and **Tableau**.
-
+- ### Takeaway: Data analysts should focus on mastering SQL and Python, supplement with Excel; add Tableau for visualization and can treat Power BI as optional.
+  
   ### 2. Trending Skills for Data Analysts  
 
 To track 2023 trends, I filtered **Data Analyst** roles and grouped skills by posting month.  
