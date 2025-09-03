@@ -1,7 +1,4 @@
 # 📊 Data Analyst Job Market Insights  
-
-## 🔎 Overview  
-This project explores the **data job market**, with a strong focus on **data analyst roles**.  
 ## 🔎 Overview  
 This project was created to **showcase my proficiency in Python** while analyzing the **data job market**, with a strong focus on **data analyst roles**.  
 The motivation behind this analysis is to gain clarity on which skills matter most for landing optimal opportunities, both in terms of **demand** and **salary potential**.  
@@ -48,7 +45,9 @@ Detailed steps: [2_Skill_Demand.ipynb](Project/2_Skills_Count_Analysis.ipynb)
 ### Data visualization codes
 <img width="1988" height="938" alt="code2" src="https://github.com/user-attachments/assets/31e72d7f-9813-4940-805f-170d9009a199" />
 
+
 ###Result
+
 <img width="620" height="472" alt="image" src="https://github.com/user-attachments/assets/7fde191f-4154-47b0-9a2f-cd953a6d69eb" />
 ##  Insights  
 
